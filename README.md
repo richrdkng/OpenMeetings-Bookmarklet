@@ -17,24 +17,23 @@ This [bookmarklet](http://en.wikipedia.org/wiki/Bookmarklet) toggles ( turn on /
 For safety and other reasons the bookmarklet works **ONLY** during **Online Conferences** at "technikum-wien.at" and **WILL NOT** alter other sites.
 
 Files
-=====
+-----
 
-* script.js: JavaScript source code with comments
-* bookmarklet.txt: bookmarklet version of the **script.js**
+* script.js:   JavaScript source code with comments
+* bookmarklet.txt:   bookmarklet version of the **script.js**
 
 Tested on
-=========
+---------
 
-* **Windows 7 Ultimate x64:**
-  * **Google Chrome 29**
-  * **Mozilla Firefox 23**
-  * **Opera 12**
+* Windows **7** Ultimate **x64**:
+  * Google Chrome **29**
+  * Mozilla Firefox **23**
+  * Opera **12**
 
-  * **Internet Explorer 9**
-      ***NOTE: INTERNET EXPLORER IS NOT RECOMMENDED BECAUSE IT'S ERRORS AND INCONSISTENCIES***
+  * Internet Explorer **9** (Internet Explorer is **not recommended because** it's inconsistencies and errors)
 
 Setup & Usage
-=============
+-------------
 
 * Download [this](https://github.com/KingForge/OpenMeetings-Bookmarklet/archive/master.zip) repository ( it's a .zip file )
 * Extract the .zip file
@@ -48,10 +47,10 @@ Setup & Usage
 
 
 
-[Google Chrome](www.google.com/chrome) is the recommended browser for the UAS Vienna **Online Conferences**.
+**[Google Chrome](www.google.com/chrome) is the recommended browser for the UAS Vienna Online Conferences.**
 
-Google Chrome:
-==============
+Google Chrome
+-------------
   * Go whatever webpage ( i.e.: google.com )
 
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_01_go_wepbage.gif)
@@ -80,14 +79,14 @@ Google Chrome:
 
     ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_06_toggle_off.gif)
      
-     * **ON** - ***the interface stretched out***
+     * **ON** - ***the interface is stretched out***
 
     ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_07_toggle_on.gif)
 
 
 
-Mozilla Firefox:
-================
+Mozilla Firefox
+---------------
   * Create a **New Bookmark**
 
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/firefox_01_new_bookmark.gif)
@@ -107,14 +106,14 @@ Mozilla Firefox:
 
     ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/firefox_04_toggle_off.gif)
      
-     * **ON** - ***the interface stretched out***
+     * **ON** - ***the interface is stretched out***
 
     ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/firefox_05_toggle_on.gif)
 
 
 
-Opera:
-======
+Opera
+-----
   * Go whatever webpage ( i.e.: google.com )
   * Add bookmark
 
@@ -139,14 +138,14 @@ Opera:
 
     ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/opera_05_toggle_off.gif)
      
-     * **ON** - ***the interface stretched out***
+     * **ON** - ***the interface is stretched out***
 
     ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/opera_06_toggle_on.gif)
 
   
 
-Internet Explorer:
-==================
+Internet Explorer
+-----------------
   * Go whatever webpage ( i.e.: google.com )
   * Add bookmark
 
@@ -175,21 +174,21 @@ Internet Explorer:
 
     ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/ie_06_toggle_off.gif)
      
-     * **ON** - ***the interface stretched out***
+     * **ON** - ***the interface is stretched out***
 
     ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/ie_07_toggle_on.gif)
 
 
 
 Standard & Fullscreen mode
-==========================
+--------------------------
 
 From **standard mode** it is possible that the browser **can not** enter to fullscreen mode. When the Flash interface gets the focus, the browser can not process most of the keys as supposed to do. Just simply click/double click on the address/URL bar and then it is possible to enter in fullscreen mode.
 
 In **fullscreen mode** there is a **thin frame** around the OpenMeetings Flash interface. This is **intentional**. When the user stuck in fullscreen mode ***(because the flash interface currently owns the focus)*** just simply click somewhere on the thin frame around the interface, on the very edge of the window.
 This will "get back" the focus from the Flash interface and then the browser **can process the key(s)** in its own way.
 
-Enter fullscreen mode / toggle between fullscreen mode: ( in all browsers )
+Enter fullscreen mode / toggle between fullscreen/standard mode: ( in all browsers )
   * **F11**
 
 Contribution
