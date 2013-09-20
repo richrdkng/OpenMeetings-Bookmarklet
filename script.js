@@ -12,7 +12,7 @@ javascript:(
 			function getById( id ) { return document.getElementById( id ); }
 			function getByTag( tagName ) { return document.getElementsByTagName( tagName ); }
             var e;
-	        if( e = getById("frametop") ) {
+            if( e = getById("frametop") ) {
 	        	if( surroundings ) {
 	        		e.removeAttribute("style");
 	        	} else {
@@ -86,7 +86,7 @@ javascript:(
 			var iframe = getByTag('iframe');
 			if( iframe && iframe[0] ) {
 				iframe = iframe[0];
-				function listener( e ) {				
+				function listener() {				
 					var width = getById("page").offsetWidth;
 					var height = ( window.innerHeight ) ? window.innerHeight : document.documentElement.clientHeight;
 					var minWidth = 800;
@@ -98,6 +98,7 @@ javascript:(
 					} else {
 						iframe.height = minHeight;
 					}
+					return false;
 				}
 				if( !surroundings ) {
 					if( window.addEventListener ) {
@@ -119,18 +120,3 @@ javascript:(
 		}
 	})()
 );
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

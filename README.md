@@ -25,11 +25,13 @@ Files
 Tested on
 =========
 
-* **Windows 7 Ultimate x86**
+* **Windows 7 Ultimate x64:**
   * **Google Chrome 29**
   * **Mozilla Firefox 23**
   * **Opera 12**
+
   * **Internet Explorer 9**
+      ***NOTE: INTERNET EXPLORER IS NOT RECOMMENDED BECAUSE IT'S ERRORS AND INCONSISTENCIES***
 
 Setup & Usage
 =============
@@ -40,14 +42,16 @@ Setup & Usage
   
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/01_open_bookmarklet.gif)
 
-* Select all it's content
-* And **copy to the clipboard**
+* Select all it's content and **copy to the clipboard** ***( this content will be pasted later into/as bookmarks )***
   
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/02_select_all_and_copy.gif)
 
 
 
+[Google Chrome](www.google.com/chrome) is the recommended browser for the UAS Vienna **Online Conferences**.
+
 Google Chrome:
+==============
   * Go whatever webpage ( i.e.: google.com )
 
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_01_go_wepbage.gif)
@@ -70,24 +74,123 @@ Google Chrome:
   
 
 
-  * During Online Conferences just simply click on the bookmark, the bookmarklet will toggle the OpenMeetings Flash interface
+  * During Online Conferences **just simply click on the bookmark**, the bookmarklet will toggle the OpenMeetings Flash interface
      
-     * **OFF**
+     * **OFF** - ***the interface is normal sized***
 
     ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_06_toggle_off.gif)
      
-     * **ON**
+     * **ON** - ***the interface stretched out***
 
     ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_07_toggle_on.gif)
 
 
 
 Mozilla Firefox:
+================
   * Create a **New Bookmark**
+
+  ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/firefox_01_new_bookmark.gif)
+
   * Choose a name ***( can be any name you want )***
   * Paste the content of the clipboard to **Location:**
+
+  ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/firefox_02_paste.gif)
+
   * Click **Add**
-  * During Online Conferences just simply click on the bookmark, the bookmarklet will toggle the OpenMeetings Flash interface
+
+  ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/firefox_03_add.gif)
+
+  * During Online Conferences **just simply click on the bookmark**, the bookmarklet will toggle the OpenMeetings Flash interface
+     
+     * **OFF** - ***the interface is normal sized***
+
+    ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/firefox_04_toggle_off.gif)
+     
+     * **ON** - ***the interface stretched out***
+
+    ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/firefox_05_toggle_on.gif)
+
+
+
+Opera:
+======
+  * Go whatever webpage ( i.e.: google.com )
+  * Add bookmark
+
+  ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/opera_01_add_bookmark.gif)
+
+  * Choose a name ***( can be any name you want )***
+  * Click **Details** to extend the window
+
+  ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/opera_02_details.gif)
+  
+  * Paste the content of the clipboard to **Address**
+
+  ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/opera_03_paste.gif)
+
+  * Press **OK**
+
+  ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/opera_04_ok.gif)
+  
+    * During Online Conferences **just simply click on the bookmark**, the bookmarklet will toggle the OpenMeetings Flash interface
+     
+     * **OFF** - ***the interface is normal sized***
+
+    ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/opera_05_toggle_off.gif)
+     
+     * **ON** - ***the interface stretched out***
+
+    ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/opera_06_toggle_on.gif)
+
+  
+
+Internet Explorer:
+==================
+  * Go whatever webpage ( i.e.: google.com )
+  * Add bookmark
+
+  ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/ie_01_add_bookmark.gif)
+
+  * Edit bookmark's **Properties**
+
+  ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/ie_02_properties.gif)
+
+  * Choose a name ***( can be any name you want )***  
+
+  ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/ie_03_name.gif)
+
+  * Click on **Web Document** tab
+  * Paste the content of the clipboard to **URL:** ***NOTE: Beware of the leading and trailing spaces***
+
+  ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/ie_04_paste.gif)
+
+  * Click **OK** 
+
+  ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/ie_05_ok.gif)
+
+  * During Online Conferences **just simply click on the bookmark**, the bookmarklet will toggle the OpenMeetings Flash interface
+     
+     * **OFF** - ***the interface is normal sized***
+
+    ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/ie_06_toggle_off.gif)
+     
+     * **ON** - ***the interface stretched out***
+
+    ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/ie_07_toggle_on.gif)
+
+
+
+Standard & Fullscreen mode
+==========================
+
+From **standard mode** it is possible that the browser **can not** enter to fullscreen mode. When the Flash interface gets the focus, the browser can not process most of the keys as supposed to do. Just simply click/double click on the address/URL bar and then it is possible to enter in fullscreen mode.
+
+In **fullscreen mode** there is a **thin frame** around the OpenMeetings Flash interface. This is **intentional**. When the user stuck in fullscreen mode ***(because the flash interface currently owns the focus)*** just simply click somewhere on the thin frame around the interface, on the very edge of the window.
+This will "get back" the focus from the Flash interface and then the browser **can process the key(s)** in its own way.
+
+Enter fullscreen mode / toggle between fullscreen mode: ( in all browsers )
+  * **F11**
 
 Contribution
 ------------
