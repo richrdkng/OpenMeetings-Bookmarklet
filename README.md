@@ -30,23 +30,20 @@ Tested on
   * Mozilla Firefox **23**
   * Opera **12**
 
-  * Internet Explorer **9** (Internet Explorer is **not recommended because** it's inconsistencies and errors)
+  * Internet Explorer **9** (Internet Explorer is **not recommended** because it's inconsistencies and errors)
 
 Setup & Usage
 -------------
 
 * Download [this](https://github.com/KingForge/OpenMeetings-Bookmarklet/archive/master.zip) repository ( it's a .zip file )
 * Extract the .zip file
-* Open the **bookmarklet.txt** file ( it's content is needed ) **in a text editor** ( i.e.: Notepad )
+* Open the **bookmarklet.txt** file ( its content is needed ) **in a text editor** ( i.e.: Notepad )
   
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/01_open_bookmarklet.gif)
 
-* Select all it's content and **copy to the clipboard** ***( this content will be pasted later into/as bookmarks )***
+* Select all its content and **copy to the clipboard** ( this content will be pasted later into/as bookmarks )
   
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/02_select_all_and_copy.gif)
-
-
-
 
 **[Google Chrome](www.google.com/chrome) is the recommended browser for the UAS Vienna Online Conferences.**
 
@@ -71,9 +68,7 @@ Google Chrome
   * Click **Save**
 
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_05_save.gif)
-  
-
-
+ 
   * During Online Conferences **just simply click on the bookmark**, the bookmarklet will toggle the OpenMeetings Flash interface
      
      * **OFF** - ***the interface is normal sized***
@@ -83,8 +78,6 @@ Google Chrome
      * **ON** - ***the interface is stretched out***
 
     ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_07_toggle_on.gif)
-
-
 
 Mozilla Firefox
 ---------------
@@ -110,8 +103,6 @@ Mozilla Firefox
      * **ON** - ***the interface is stretched out***
 
     ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/firefox_05_toggle_on.gif)
-
-
 
 Opera
 -----
@@ -142,8 +133,6 @@ Opera
      * **ON** - ***the interface is stretched out***
 
     ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/opera_06_toggle_on.gif)
-
-  
 
 Internet Explorer
 -----------------
@@ -178,8 +167,6 @@ Internet Explorer
      * **ON** - ***the interface is stretched out***
 
     ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/ie_07_toggle_on.gif)
-
-
 
 Standard & Fullscreen mode
 --------------------------
