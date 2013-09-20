@@ -37,27 +37,50 @@ Setup & Usage
 * Download [this](https://github.com/KingForge/OpenMeetings-Bookmarklet/archive/master.zip) repository ( it's a .zip file )
 * Extract the .zip file
 * Open the **bookmarklet.txt** file ( it's content is needed ) **in a text editor** ( i.e.: Notepad )
-![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/01_open_bookmarklet.gif)
+  
+  ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/01_open_bookmarklet.gif)
+
 * Select all it's content
 * And **copy to the clipboard**
-![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/02_select_all_and_copy.gif)
+  
+  ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/02_select_all_and_copy.gif)
+
+
 
 Google Chrome:
   * Go whatever webpage ( i.e.: google.com )
-![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_01_go_wepbage.gif)
+
+  ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_01_go_wepbage.gif)
+ 
   * Click **Add page...** on the bookmarks bar
-![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_02_add_page.gif)
+
+  ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_02_add_page.gif)
+  
   * Choose a name ***( can be any name you want )***
-![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_03_choose_name.gif)
+
+  ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_03_choose_name.gif)
+  
   * Paste the content of the clipboard to **URL:**
-![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_04_paste.gif)
+
+  ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_04_paste.gif)
+  
   * Click **Save**
-![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_05_save.gif)
+
+  ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_05_save.gif)
+  
+
+
   * During Online Conferences just simply click on the bookmark, the bookmarklet will toggle the OpenMeetings Flash interface
+     
      * **OFF**
-![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_06_toggle_off.gif)
+
+    ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_06_toggle_off.gif)
+     
      * **ON**
-![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_07_toggle_on.gif)
+
+    ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_07_toggle_on.gif)
+
+
 
 Mozilla Firefox:
   * Create a **New Bookmark**
@@ -69,7 +92,7 @@ Mozilla Firefox:
 Contribution
 ------------
 
-Feel free to participate, improve and fork.
+**Feel free to participate, improve and fork. I'd be glad to see the improvement of this script.**
 
 License
 -------
