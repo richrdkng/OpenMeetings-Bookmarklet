@@ -111,7 +111,8 @@ javascript:(
 				iframe = iframe[0];
 				function listener() {
 					var width = getById("page").offsetWidth;
-					var height = ( window.innerHeight ) ? window.innerHeight : document.documentElement.clientHeight;
+					var height = ( window.innerHeight ) ? window.innerHeight
+									: document.documentElement.clientHeight;
 					var minWidth = 800;
 					var minHeight = 640;
 					
