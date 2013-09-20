@@ -47,6 +47,7 @@ Setup & Usage
 
 
 
+
 **[Google Chrome](www.google.com/chrome) is the recommended browser for the UAS Vienna Online Conferences.**
 
 Google Chrome
@@ -188,7 +189,7 @@ From **standard mode** it is possible that the browser **can not** enter to full
 In **fullscreen mode** there is a **thin frame** around the OpenMeetings Flash interface. This is **intentional**. When the user stuck in fullscreen mode ***(because the flash interface currently owns the focus)*** just simply click somewhere on the thin frame around the interface, on the very edge of the window.
 This will "get back" the focus from the Flash interface and then the browser **can process the key(s)** in its own way.
 
-Enter fullscreen mode / toggle between fullscreen/standard mode: ( in all browsers )
+**Enter fullscreen mode** / toggle between fullscreen/standard mode: ( in all browsers )
   * **F11**
 
 Contribution
