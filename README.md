@@ -10,9 +10,9 @@ Intent
 
 During **Online Conferences** the size of the **OpenMeetings Flash interface** can be to small, even to a point where its usability is questionable.
 
-This [bookmarklet](http://en.wikipedia.org/wiki/Bookmarklet) toggles ( turn on / off ) the **OpenMeetings Flash interface** to stretch out in the whole browser or shrink back to its original size.
+This [bookmarklet](http://en.wikipedia.org/wiki/Bookmarklet) (JavaScript code as a callable bookmark) toggles ( turn on/off ) the **OpenMeetings Flash interface** to stretch out in the whole browser or shrink back to its original size.
 
-**The bookmarklet should not interfere and / or alter the behaviour of the OpenMeetings Flash interface. More information in the LICENSE.txt**
+**The bookmarklet should not interfere and / or alter the behaviour of the OpenMeetings Flash interface. More information in the [LICENSE.txt](https://github.com/KingForge/OpenMeetings-Bookmarklet/blob/master/LICENSE.txt)**
 
 For safety and other reasons the bookmarklet works **ONLY** during **Online Conferences** at "technikum-wien.at" and **WILL NOT** alter other sites.
 
@@ -26,11 +26,11 @@ Tested on
 ---------
 
 * Windows **7** Ultimate **x64**:
-  * Google Chrome **29**
-  * Mozilla Firefox **23**
-  * Opera **12**
+  * [Google Chrome **29**](https://github.com/KingForge/OpenMeetings-Bookmarklet#google-chrome)
+  * [Mozilla Firefox **23**](https://github.com/KingForge/OpenMeetings-Bookmarklet#mozilla-firefox)
+  * [Opera **12**](https://github.com/KingForge/OpenMeetings-Bookmarklet#opera)
 
-  * Internet Explorer **9** (Internet Explorer is **not recommended** because its inconsistencies and errors)
+  * [Internet Explorer **9**](https://github.com/KingForge/OpenMeetings-Bookmarklet#internet-explorer) (Internet Explorer is **not recommended** because its inconsistencies and errors)
 
 Setup & Usage
 -------------
@@ -41,11 +41,11 @@ Setup & Usage
   
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/01_open_bookmarklet.gif)
 
-* Select all its content and **copy to the clipboard** ( this content will be pasted later into/as bookmarks )
+* Select all its content and **copy to the clipboard** ( this content will be pasted later into/as "bookmarks" )
   
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/02_select_all_and_copy.gif)
 
-**[Google Chrome](www.google.com/chrome) is the recommended browser for the UAS Vienna Online Conferences.**
+**[Google Chrome](http://www.google.com/chrome) is the recommended browser for the UAS Vienna Online Conferences.**
 
 Google Chrome
 -------------
@@ -53,15 +53,15 @@ Google Chrome
 
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_01_go_wepbage.gif)
  
-  * Click **Add page...** on the bookmarks bar
+  * Right click on the bookmarks bar and select **Add page...**
 
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_02_add_page.gif)
   
-  * Choose a name ***( can be any name you want )***
+  * Choose a name for the bookmarklet ***( can be any name you want )***
 
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_03_choose_name.gif)
   
-  * Paste the content of the clipboard to **URL:**
+  * Paste the content of the clipboard into the **URL:** textfield
 
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/chrome_04_paste.gif)
   
@@ -85,8 +85,8 @@ Mozilla Firefox
 
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/firefox_01_new_bookmark.gif)
 
-  * Choose a name ***( can be any name you want )***
-  * Paste the content of the clipboard to **Location:**
+  * Choose a name for the bookmarklet ***( can be any name you want )***
+  * Paste the content of the clipboard into the **Location:** textfield
 
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/firefox_02_paste.gif)
 
@@ -111,12 +111,12 @@ Opera
 
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/opera_01_add_bookmark.gif)
 
-  * Choose a name ***( can be any name you want )***
-  * Click **Details** to extend the window
+  * Choose a name for the bookmarklet ***( can be any name you want )***
+  * Click **Details** to extend the "Add Bookmark" window
 
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/opera_02_details.gif)
   
-  * Paste the content of the clipboard to **Address**
+  * Paste the content of the clipboard into the **Address** textfield
 
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/opera_03_paste.gif)
 
@@ -145,12 +145,12 @@ Internet Explorer
 
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/ie_02_properties.gif)
 
-  * Choose a name ***( can be any name you want )***  
+  * Choose a name for the bookmarklet ***( can be any name you want )***
 
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/ie_03_name.gif)
 
   * Click on **Web Document** tab
-  * Paste the content of the clipboard to **URL:** NOTE: Beware of the leading and trailing spaces
+  * Paste the content of the clipboard into the **URL:** textfield (NOTE: beware of the leading and trailing spaces)
 
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/ie_04_paste.gif)
 
