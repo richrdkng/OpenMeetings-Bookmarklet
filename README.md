@@ -30,7 +30,7 @@ Tested on
   * [Mozilla Firefox **23**](https://github.com/KingForge/OpenMeetings-Bookmarklet#mozilla-firefox)
   * [Opera **12**](https://github.com/KingForge/OpenMeetings-Bookmarklet#opera)
 
-  * [Internet Explorer **9**](https://github.com/KingForge/OpenMeetings-Bookmarklet#internet-explorer) ***(Internet Explorer is **not recommended** because its inconsistencies and errors)***
+  * [Internet Explorer **9**](https://github.com/KingForge/OpenMeetings-Bookmarklet#internet-explorer) (Internet Explorer is **not recommended** because its inconsistencies and errors)
 
 Setup & Usage
 -------------
