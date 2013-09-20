@@ -8,9 +8,9 @@ For moodle 2.4 Online Conferences.
 Intent
 ------
 
-During **Online Conferences** the size of the **OpenMeetings Flash interface** can be to small, even to a point where it's usability is questionable.
+During **Online Conferences** the size of the **OpenMeetings Flash interface** can be to small, even to a point where its usability is questionable.
 
-This [bookmarklet](http://en.wikipedia.org/wiki/Bookmarklet) toggles ( turn on / off ) the **OpenMeetings Flash interface** to stretch out in the whole browser or shrink back to it's original size.
+This [bookmarklet](http://en.wikipedia.org/wiki/Bookmarklet) toggles ( turn on / off ) the **OpenMeetings Flash interface** to stretch out in the whole browser or shrink back to its original size.
 
 **The bookmarklet should not interfere and / or alter the behaviour of the OpenMeetings Flash interface. More information in the LICENSE.txt**
 
@@ -30,7 +30,7 @@ Tested on
   * Mozilla Firefox **23**
   * Opera **12**
 
-  * Internet Explorer **9** (Internet Explorer is **not recommended** because it's inconsistencies and errors)
+  * Internet Explorer **9** (Internet Explorer is **not recommended** because its inconsistencies and errors)
 
 Setup & Usage
 -------------
@@ -150,7 +150,7 @@ Internet Explorer
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/ie_03_name.gif)
 
   * Click on **Web Document** tab
-  * Paste the content of the clipboard to **URL:** ***NOTE: Beware of the leading and trailing spaces***
+  * Paste the content of the clipboard to **URL:** NOTE: Beware of the leading and trailing spaces
 
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/ie_04_paste.gif)
 
