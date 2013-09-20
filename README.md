@@ -30,7 +30,7 @@ Tested on
   * [Mozilla Firefox **23**](https://github.com/KingForge/OpenMeetings-Bookmarklet#mozilla-firefox)
   * [Opera **12**](https://github.com/KingForge/OpenMeetings-Bookmarklet#opera)
 
-  * [Internet Explorer **9**](https://github.com/KingForge/OpenMeetings-Bookmarklet#internet-explorer) (Internet Explorer is **not recommended** because its inconsistencies and errors)
+  * [Internet Explorer **9**](https://github.com/KingForge/OpenMeetings-Bookmarklet#internet-explorer) ***(Internet Explorer is **not recommended** because its inconsistencies and errors)***
 
 Setup & Usage
 -------------
@@ -41,7 +41,7 @@ Setup & Usage
   
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/01_open_bookmarklet.gif)
 
-* Select all its content and **copy to the clipboard** ( this content will be pasted later into/as "bookmarks" )
+* **Select all** its content and **copy to the clipboard** ( this content will be pasted later into/as "bookmarks" )
   
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/02_select_all_and_copy.gif)
 
