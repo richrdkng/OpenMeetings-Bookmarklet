@@ -182,7 +182,7 @@ This will "get back" the focus from the Flash interface and then the browser **c
 Contribution
 ------------
 
-**Feel free to participate, improve and fork. I'd be glad to see the improvement of this script.**
+**Feel free to participate, improve and fork. I'd be glad to see the improvement of this bookmarklet.**
 
 License
 -------

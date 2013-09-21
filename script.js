@@ -1,4 +1,8 @@
 /*
+Copyright (C) 2013 Szakács Richárd and other contributors
+MIT license, more in "LICENSE.txt"
+*/
+/*
 IMPORTANT NOTES:
 	- in bookmarklets:
 		- the actual JavaScript code need to surrounded by:	
