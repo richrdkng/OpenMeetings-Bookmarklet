@@ -46,7 +46,7 @@ Setup & Usage
   ![ScreenShot](https://raw.github.com/KingForge/OpenMeetings-Bookmarklet/master/readme-images/02_select_all_and_copy.gif)
 
 * Browsers: ( select your browser, _continue based on the specific wiki page that will open_ )
-  * [Google Chrome](https://github.com/KingForge/OpenMeetings-Bookmarklet/wiki/Setup-Google-Chrome) (**recommended browser** for the UAS Vienna Online Conferences)
+  * [Google Chrome](https://github.com/KingForge/OpenMeetings-Bookmarklet/wiki/Setup-Google-Chrome)  ( **recommended browser** for the UAS Vienna Online Conferences )
   * [Mozilla Firefox](https://github.com/KingForge/OpenMeetings-Bookmarklet/wiki/Setup-Mozilla-Firefox)
   * [Opera](https://github.com/KingForge/OpenMeetings-Bookmarklet/wiki/Setup-Opera)
   * [Internet Explorer](https://github.com/KingForge/OpenMeetings-Bookmarklet/wiki/Setup-Internet-Explorer)
@@ -57,15 +57,15 @@ Fullscreen & Standard mode
 During **Online Conferences** it is useful, most of the time even recommended to enter fullscreen mode.
 There could be **some issues** when enter(ing) to fullscreen mode / standard mode.
 
-**Fullscreen mode**: the browser stretch out the entire webpage, the webpage occupy the whole screen
-**Standard mode**: the webpage occupy a well defined portion of the screen in the current browser, this is the default case
+**Fullscreen mode**: the browser stretches out the entire webpage, the webpage occupies the whole screen
+**Standard mode**: the webpage occupies a well defined portion of the screen in the current browser, **this is the default case**
 
 [**More on these issues and their solutions / workarounds.**](https://github.com/KingForge/OpenMeetings-Bookmarklet/wiki/Fullscreen-&-Standard-mode)
 
 Blocked Content issue
 ---------------------
 
-Because the **OpenMeetings Flash interface** currently works/processes data from a **non-HTTPS** source, the browser may notify the user about "insecure content"/"content that isn't secure". This issue will be fixed.
+Because the **OpenMeetings Flash interface** currently works / processes data from a **non-HTTPS** source, the browser may notify the user about **"insecure content"** / **"content that isn't secure"**. This issue will be fixed.
 
 [**More on this issue and its workaround.**](https://github.com/KingForge/OpenMeetings-Bookmarklet/wiki/Blocked-Content-issue)
 
@@ -74,7 +74,7 @@ Contribution
 
 **Feel free to participate, improve and fork. I'd be glad to see the improvement of this bookmarklet.**
 
-If any **question/issue/bug** occurs, please post on the [**project's issues page on GitHub**](https://github.com/KingForge/OpenMeetings-Bookmarklet/issues).
+If any **question / issue / bug** occurs, please post on the [**project's issues page on GitHub**](https://github.com/KingForge/OpenMeetings-Bookmarklet/issues).
 
 License
 -------
